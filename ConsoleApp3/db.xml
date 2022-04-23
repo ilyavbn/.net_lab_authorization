@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<users>
+  <registereduser login ="user1">
+    <name>Lada</name>
+    <surname>Granta</surname>
+    <password>12345</password>
+  </registereduser>
+  <registereduser login ="user2">
+    <name>Daewoo</name>
+    <surname>Matiz</surname>
+    <password>1asda</password>
+  </registereduser>
+</users>
