@@ -22,3 +22,4 @@
 Спроба реэстрації з вже існуючим логіном
 
 ![rereg](img\rereg.PNG)
+![rereg](rereg.PNG)
