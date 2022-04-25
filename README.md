@@ -5,21 +5,21 @@
 
 Список команд
 
-![список команд](img\help.PNG)
+![список команд](img/help.PNG)
 
 Процес реэстрації
 
-![registrationi](img\reg_showinfo.PNG)
+![registrationi](img/reg_showinfo.PNG)
 
 Вхід в систему
 
-![login](img\logged_showinfo.PNG)
+![login](img/logged_showinfo.PNG)
 
 Вихід з системи
 
-![logout](img\logout_showinfo.PNG)
+![logout](img/logout_showinfo.PNG)
 
 Спроба реэстрації з вже існуючим логіном
 
-![rereg](img\rereg.PNG)
+![rereg](img/rereg.PNG)
 ![rereg](rereg.PNG)
